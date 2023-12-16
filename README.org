@@ -1,0 +1,9 @@
+* uuidv7
+
+A Common Lisp implementation for UUIDv7.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/pseudomata/uuidv7.lisp |
+| commit  | 34c0981                                       |
+| systems | uuidv7                                        |
+|---------+-----------------------------------------------|
